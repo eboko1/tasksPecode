@@ -1,0 +1,20 @@
+{
+  "viewportWidth": 1240,
+  "viewportHeight": 960,
+  "//viewportWidth": 414,
+  "//viewportHeight": 736,
+  "dashboardId": "1b7r9u",
+  "chromeWebSecurity": false,
+  "screenshotOnRunFailure": true,
+  "video": true,
+  "reporter": "reporters/custom.js",
+  
+  "env": {
+    "urlBase":"https://www.pecodesoftware.com",
+
+    "Login":"",
+    "Password":""
+
+    
+  }
+}
